@@ -1,0 +1,10 @@
+{
+  "properties": [
+    {"id":"E302","name":"E302","env":"VRBO_E302"},
+    {"id":"E303","name":"E303","env":"VRBO_E303"},
+    {"id":"E305","name":"E305","env":"VRBO_E305"},
+    {"id":"F204","name":"F204","env":"VRBO_F204"},
+    {"id":"Villa B5","name":"Villa B5","env":"VRBO_VILLA_B5"}
+  ],
+  "timezone":"America/New_York"
+}

@@ -1,0 +1,11 @@
+{
+  "updatedAt": null,
+  "source": "VRBO iCal feeds",
+  "properties": {
+    "E302": {"name": "E302", "unavailable": []},
+    "E303": {"name": "E303", "unavailable": []},
+    "E305": {"name": "E305", "unavailable": []},
+    "F204": {"name": "F204", "unavailable": []},
+    "Villa B5": {"name": "Villa B5", "unavailable": []}
+  }
+}
